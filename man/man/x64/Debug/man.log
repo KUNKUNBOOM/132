@@ -1,0 +1,25 @@
+﻿  man.c
+C:\Users\桂远辉\Desktop\man\man\man.c(41,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\桂远辉\Desktop\man\man\man.c(51,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\桂远辉\Desktop\man\man\man.c(54,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\桂远辉\Desktop\man\man\man.c(57,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\桂远辉\Desktop\man\man\man.c(60,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\桂远辉\Desktop\man\man\man.c(63,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\桂远辉\Desktop\man\man\man.c(66,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\桂远辉\Desktop\man\man\man.c(86,10): warning C4477: “printf”: 格式字符串“%11u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“unsigned __int64”
+      C:\Users\桂远辉\Desktop\man\man\man.c(86,10):
+      请考虑在格式字符串中使用“%llu”
+      C:\Users\桂远辉\Desktop\man\man\man.c(86,10):
+      请考虑在格式字符串中使用“%Iu”
+      C:\Users\桂远辉\Desktop\man\man\man.c(86,10):
+      请考虑在格式字符串中使用“%I64u”
+  
+C:\Users\桂远辉\Desktop\man\man\man.c(183,12): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\桂远辉\Desktop\man\man\man.c(222,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\桂远辉\Desktop\man\man\man.c(226,2): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\桂远辉\Desktop\man\man\man.c(250,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\桂远辉\Desktop\man\man\man.c(254,2): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\桂远辉\Desktop\man\man\man.c(263,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\桂远辉\Desktop\man\man\man.c(286,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\桂远辉\Desktop\man\man\man.c(290,2): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  man.vcxproj -> C:\Users\桂远辉\Desktop\man\x64\Debug\man.exe
